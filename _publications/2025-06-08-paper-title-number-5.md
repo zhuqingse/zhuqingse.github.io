@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: ""This is My Fault", Really? Understanding Blind and Low-Vision People’s Perception of Hallucination in Large Vision Language Models"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+date: 2025-09-27
+venue: 'In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST)'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Yilin Tang, Yuyang Fang, Tianle Wang, Lingyun Sun, and Liuqing Chen. (2025). &quot;"This is My Fault", Really? Understanding Blind and Low-Vision People’s Perception of Hallucination in Large Vision Language Models.&quot; <i>In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST)</i>. 1(3).'
 ---
