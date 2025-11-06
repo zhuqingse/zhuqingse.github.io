@@ -7,7 +7,7 @@ excerpt: ''
 date: 2025-09-27
 venue: 'In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST)'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Yilin Tang, Yuyang Fang, Tianle Wang, Lingyun Sun, and Liuqing Chen.'
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.'Yilin Tang, Yuyang Fang, Tianle Wang, Lingyun Sun, and Liuqing Chen. (2025). &quot;"This is My Fault", Really? Understanding Blind and Low-Vision People’s Perception of Hallucination in Large Vision Language Models.&quot; <i>In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST)</i>. 1(3).'
