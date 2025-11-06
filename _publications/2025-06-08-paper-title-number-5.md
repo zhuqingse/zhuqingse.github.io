@@ -3,7 +3,7 @@ title: "1"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-<!--excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'-->
+excerpt: ''
 date: 2025-09-27
 venue: 'GitHub Journal of Bugs'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
