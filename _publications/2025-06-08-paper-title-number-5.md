@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2025-09-27
 venue: 'In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST)'
-paperurl: 'https://zhuqingse.github.io/files/paper3.pdf'
+paperurl: 'https://zhuqingse.github.io/files/uist25.pdf'
 slidesurl: 'https://zhuqingse.github.io/files/uistpre.pdf'
 citation: 'Yilin Tang, Yuyang Fang, Tianle Wang, Lingyun Sun, and Liuqing Chen.'
 ---
