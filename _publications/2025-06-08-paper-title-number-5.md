@@ -1,5 +1,5 @@
 ---
-title: "&quot;This is My Fault", Really? Understanding Blind and Low-Vision People’s Perception of Hallucination in Large Vision Language Models &quot;"
+title: "&quot;This is My Fault,&quot; Really? Understanding Blind and Low-Vision People’s Perception of Hallucination in Large Vision Language Models"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
