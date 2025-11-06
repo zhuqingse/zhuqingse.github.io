@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2024-05-11
-venue: 'CHI '24: Proceedings of the 2024 CHI Conference on Human Factors in Computing System'
+venue: 'CHI 24 Proceedings of the 2024 CHI Conference on Human Factors in Computing System'
 paperurl: 'https://zhuqingse.github.io/files/chi24.pdf'
 slidesurl: 'https://zhuqingse.github.io/files/chipre.pdf'
 citation: 'Yilin Tang, Liuqing Chen, Ziyu Chen, Wenkai Chen, Yu Cai, Yao Du, Fan Yang, and Lingyun Sun.'
