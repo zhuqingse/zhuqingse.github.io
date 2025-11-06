@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2025-09-27
-venue: 'GitHub Journal of Bugs'
+venue: 'In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST)'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
