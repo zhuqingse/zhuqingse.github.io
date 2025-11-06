@@ -3,9 +3,9 @@ title: ""This is My Fault", Really? Understanding Blind and Low-Vision People’
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-<!--excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'-->
+excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2025-09-27
-venue: 'UIST'25: In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology '
+venue: 'GitHub Journal of Bugs'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Yilin Tang, Yuyang Fang, Tianle Wang, Lingyun Sun, and Liuqing Chen. (2025). &quot;"This is My Fault", Really? Understanding Blind and Low-Vision People’s Perception of Hallucination in Large Vision Language Models.&quot; <i>In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST)</i>. 1(3).'
 ---
